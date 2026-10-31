@@ -175,3 +175,7 @@ examples/finance_adk/chart_*.png
 *.tmp
 *.temp
 *.bak
+
+# Local agent workspace and agent-facing docs (never committed)
+.scratch/
+docs/agents/
